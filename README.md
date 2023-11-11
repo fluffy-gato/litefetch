@@ -20,3 +20,5 @@ To run litefetch do:
 Python fork similiar to litefetch alpha: https://github.com/noobcoderwastaken/litefetch
 
 Golang fork similiar to the current beta litefetch: https://github.com/radeeyate/litefetch
+
+Lua fork https://gitlab.com/lua2444845/luafetch
